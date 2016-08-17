@@ -1,0 +1,8 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 04 Jun 2016 04:30:21 +0000
+Reviewed-on: https://review.openstack.org/321713
+Project: openstack/deb-oslotest
+Branch: refs/heads/master
