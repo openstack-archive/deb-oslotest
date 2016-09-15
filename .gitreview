@@ -1,4 +1,5 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=openstack/oslotest.git
+project=openstack/deb-oslotest.git
+defaultbranch=debian/newton
