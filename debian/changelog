@@ -10,6 +10,10 @@ python-oslotest (1:2.5.0-1) UNRELEASED; urgency=medium
   * d/gbp.conf: Update branch for Newton.
   * d/control: Align (Build-)Depends with upstream.
 
+  [ Ondřej Nový ]
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
+
  -- Corey Bryant <corey.bryant@canonical.com>  Wed, 01 Jun 2016 11:10:59 -0400
 
 python-oslotest (1:2.3.0-1) unstable; urgency=medium
