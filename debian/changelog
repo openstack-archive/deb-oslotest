@@ -13,6 +13,7 @@ python-oslotest (1:2.5.0-1) UNRELEASED; urgency=medium
   [ Ondřej Nový ]
   * d/s/options: extend-diff-ignore of .gitreview
   * d/control: Using OpenStack's Gerrit as VCS URLs.
+  * Bumped debhelper compat version to 10
 
  -- Corey Bryant <corey.bryant@canonical.com>  Wed, 01 Jun 2016 11:10:59 -0400
 
